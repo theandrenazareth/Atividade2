@@ -4,7 +4,7 @@ A. Passo 1 - Ligação dos componentes.
 1. Faça a ligação dos computadores, switch e roteador, conforme a tabela disponibilizada.
 B. Passo 2 – Configuração das VLANs no Switch
 2. No Switch, em Config, selecione a opção VLAN Database.
-3. Adicione as três VLANs, conforme a figura.
+3. Adicione as três VLANs, conforme a figura. (10 Financeiro, 20 Vendas, 30 Diretoria, 40 TI)
 4. Ainda em config, selecione as interfaces e insira as VLANs conforme tabela baixo.
 Interface
 VLAN
